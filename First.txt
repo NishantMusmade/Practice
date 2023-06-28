@@ -3,3 +3,4 @@ This is my first file in git tutorial
 I want this file to go in commit 2
 this is the 4th changes
 hiii nishant
+another change
